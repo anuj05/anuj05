@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @anuj05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I'm Anuj Vishwakarma!
 
-anuj05/anuj05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🎓 Computer Science and Engineering student at Jaypee University of Engineering and Technology
 
+💻 Experience in technical content writing, team coordination, and research and development in the field of computer vision and deep learning
+
+🌟 Certified Google Cloud Architect with proficiency in various cloud services
+
+🚀 Skills
+
+Programming languages: C, C++, Python, HTML, CSS, Bootstrap, Java 🔍
+
+Frameworks and tools: Figma, SQL, Git, GitHub, PyTorch, TensorFlow, CNN 🛠️
+
+Cloud services: G-cloud, AWS, Cloud Computing, AWS Amplify ☁️
+
+Other skills: Object-oriented programming, software development fundamentals, data structures, web development, operating systems, content writing, team management, project management, decision making 💪
+
+💼 Experience
+
+Technical Content Writer- Intern at Geeks for Geeks 📝
+
+TPO Student Coordinator at Jaypee University (JUET), Guna 🎓
+
+Research and Development Intern at Malviya National Institute of Technology (MNIT) Jaipur 🔍
+
+Google Cloud – Bootcamp Program Google Cloud Certified Professional Cloud Architect 🌟
+
+🎓 Education
+
+Bachelor of Technology in Computer Science and Engineering at Jaypee University of Engineering and Technology 🎓
+
+🚀 Projects
+
+Deep Learning Method to Identify Rotten Fruits (Intern Project) 🍎
+
+Bhojnaly Restaurant 🍽️
+
+TakeNote 📝
+
+Portfolio 🌐
+
+Jaypee Hack (University Hackathon) 🚀
+
+Other Projects - Tap for more 🎉
 
