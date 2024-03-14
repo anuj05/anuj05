@@ -6,41 +6,15 @@ I am a passionate Computer Science and Engineering student at Jaypee University 
 
 ## 🌟 Skills
 
-### Cloud Computing and DevOps
-- AWS: CloudFormation, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, AWS Amplify, AWS Cloud9, Amazon ECR
-- Google Cloud Platform: G-cloud
-- Infrastructure Automation
-- Git
+| Category                               | Skills                                                                                      |
+|----------------------------------------|---------------------------------------------------------------------------------------------|
+| Cloud Computing and DevOps            | AWS (CloudFormation, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, AWS Amplify, AWS Cloud9, Amazon ECR), Google Cloud Platform (G-cloud), Infrastructure Automation, Git |
+| Project Management and Coordination   | Team Coordination, Attention to Detail, Market Analysis                                      |
+| Data Analysis and Market Research     | Data Analysis, Data Visualization, Excel, Market Research                                   |
+| SEO & Analytics                       | SEO, SEMrush, Uber Suggest, Google Analytics, Ahrefs, Backlink Analysis                     |
+| Technical Writing and Content Management | Content Editing & Improvement, Content Analysis, Content Optimization                     |
+| Additional Skills                     | Operating Systems, Data Structures, SDLC, Agile Methodologies                                |
 
-### Project Management and Coordination
-- Team Coordination
-- Attention to Detail
-- Market Analysis
-
-### Data Analysis and Market Research
-- Data Analysis
-- Data Visualization
-- Excel
-- Market Research
-
-### SEO & Analytics
-- SEO
-- SEMrush
-- Uber Suggest
-- Google Analytics
-- Ahrefs
-- Backlink Analysis
-
-### Technical Writing and Content Management
-- Content Editing & Improvement
-- Content Analysis
-- Content Optimization
-
-### Additional Skills
-- Operating Systems
-- Data Structures
-- SDLC
-- Agile Methodologies
 
 ## 💼 Experience
 
