@@ -43,16 +43,14 @@ I am a **Technical Content Writer & Cloud Enthusiast** with expertise in **Cloud
 
 ## 📄 Work Samples  
 
-🔹 **SEO-Optimized Technical Blogs** – [Sample Blog](#)  
-🔹 **Cloud Computing Tutorials** – [Sample Tutorial](https://www.dotsden.com/knowledgebase/17/cPanel)  
-🔹 **Case Studies ** – [Sample Case Study](#)  
+🔹 **SEO-Optimized Knowledge Base Documentation** – [Sample Blog](https://www.dotsden.com/knowledgebase/17/cPanel)  
 🔹 **Live Website Content for SaaS & IT Companies** -
-🔹 **[Zebyte Cloud](https://www.zebytecloud.com/) & [BNK Infotech](https://www.bnkinfotech.com/): Created website content, technical blogs, and service pages on cloud, IoT, AI, etc.**
-🔹 **[DotsDen](https://www.dotsden.com/) & [(New)](https://dev7.zebytecloud.in/): Developed SEO-optimized content, knowledge base articles, and blogs on hosting and web solutions.**
-🔹 **[Aangana](https://aangana.com/): E-commerce website content for homemade products**
-🔹 **[VueNow Edge Data Canters](https://vuenowonline.com/): Website content, Predictive Maintenance Solutions for Railways**
-🔹 **[Artfin(FinTech Solutions)](https://artfin.zebytecloud.in/): Content for financial services website**
-🔹 **[Lex News](https://dev.zebytecloud.in/): Legal news platform content**
+- **[Zebyte Cloud](https://www.zebytecloud.com/) & [BNK Infotech](https://www.bnkinfotech.com/): Created website content, technical blogs, and service pages on cloud, IoT, AI, etc.**
+- **[DotsDen](https://www.dotsden.com/) & [(New)](https://dev7.zebytecloud.in/): Developed SEO-optimized content, knowledge base articles, and blogs on hosting and web solutions.**
+- **[Aangana](https://aangana.com/): E-commerce website content for homemade products**
+- **[VueNow Edge Data Canters](https://vuenowonline.com/): Website content, Predictive Maintenance Solutions for Railways**
+- **[Artfin(FinTech Solutions)](https://artfin.zebytecloud.in/): Content for financial services website**
+- **[Lex News](https://dev.zebytecloud.in/): Legal news platform content**
 
 ## 🎓 Certifications  
 
