@@ -46,7 +46,8 @@ I am a **Technical Content Writer & Cloud Enthusiast** with expertise in **Cloud
 🔹 **SEO-Optimized Technical Blogs** – [Sample Blog](#)  
 🔹 **Cloud Computing Tutorials** – [Sample Tutorial](#)  
 🔹 **Case Studies on DevOps & IT Solutions** – [Sample Case Study](#)  
-🔹 **Website Content for SaaS & IT Companies** – [BNK infotech](www.bnkinfotech.com/)  
+🔹 **Live Website Content for SaaS & IT Companies** 
+      – [BNK infotech](https://www.bnkinfotech.com/)  
 
 ## 🎓 Certifications  
 
