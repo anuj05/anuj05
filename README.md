@@ -1,59 +1,64 @@
-# 👋 Hi there, I'm Anuj Vishwakarma!
+# 👋 Hi, I'm Anuj Vishwakarma!  
 
-## 🎓 About Me
+## 🚀 About Me  
+I am a **Technical Content Writer & Cloud Enthusiast** with expertise in **Cloud & DevOps, Web Development, SEO, and Technical Documentation**. My experience includes **SEO-driven content creation, technical blogging, case studies, tutorials, and frontend debugging**. I also have hands-on experience with **AWS, Google Cloud, JavaScript, HTML, CSS, and Python frameworks**.  
 
-I am a passionate Computer Science and Engineering student at Jaypee University of Engineering and Technology, with a keen interest in cloud computing, technical content writing, and research and development in computer vision and deep learning.
+## 🛠️ Skills  
 
-## 🌟 Skills
+| Category                     | Skills |
+|------------------------------|----------------------------------------------------------------|
+| **Cloud & DevOps**           | AWS, Google Cloud, Cloud Environments, CloudFormation, Infrastructure Automation, Git |
+| **Web Development & Debugging** | JavaScript, HTML, CSS, Python Frameworks, Website Issue Resolution |
+| **Technical Writing**        | SEO-driven blogs, tutorials, website content, case studies, knowledge base documentation |
+| **SEO & Analytics**          | Keyword Research, Google Analytics, Ahrefs, SEMrush, Uber Suggest, Backlink Analysis |
+| **Project Coordination**     | Market Analysis, Data Visualization, Team Coordination, Content Strategy |
 
-| Category                               | Skills                                                                                      |
-|----------------------------------------|---------------------------------------------------------------------------------------------|
-| Cloud Computing and DevOps            | AWS (CloudFormation, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, AWS Amplify, AWS Cloud9, Amazon ECR), Google Cloud Platform (G-cloud), Infrastructure Automation, Git |
-| Project Management and Coordination   | Team Coordination, Attention to Detail, Market Analysis                                      |
-| Data Analysis and Market Research     | Data Analysis, Data Visualization, Excel, Market Research                                   |
-| SEO & Analytics                       | SEO, SEMrush, Uber Suggest, Google Analytics, Ahrefs, Backlink Analysis                     |
-| Technical Writing and Content Management | Content Editing & Improvement, Content Analysis, Content Optimization                     |
-| Additional Skills                     | Operating Systems, Data Structures, SDLC, Agile Methodologies                                |
+## 💼 Work Experience  
 
+### **Technical Content Writer**  
+📍 *Zebyte Cloud* | *2025 - Present*  
+- Created **SEO-optimized blogs, tutorials, and website content** for cloud, DevOps, and IT solutions.  
+- Developed **client proposals, SOWs, and business presentations** for multiple clients.  
+- Managed and updated **social media content** (YouTube, LinkedIn, Quora).  
+- Wrote **technical documentation, case studies, and whitepapers** on cloud solutions and security.  
 
-## 💼 Experience
+### **Content Writer**  
+📍 *Frugal Testing* | *2024*  
+- Wrote **website content, technical tutorials, and articles** on **Cloud, Testing, and Frontend Testing Tools**.  
+- Developed **SEO-friendly content** to improve website traffic and engagement.  
 
-### Technical Content Analyst at Geeks for Geeks, Noida (2023)
-- Conducted SEO analysis with AWS Cloud tools, enhancing visibility.
-- Demonstrated expertise in AWS CloudWatch, S3, and SEO best practices.
-- Performed in-depth content analysis using tools like SEMrush, Uber Suggest, & Google Analytics to identify areas for enhancement.
+### **Technical Content Writer**  
+📍 *Geeks for Geeks* | *2023*  
+- Authored blogs on **DevOps, cloud solutions, and infrastructure automation**.  
+- Created content on **frontend frameworks, programming languages, and web technologies** with SEO optimization.  
 
-### Technical Content Writer at Geeks for Geeks, Noida (2023)
-- Conducted suggestions from market analysis, Data compilation for clarity & Enhancing data quality.
-- Authored comprehensive content modules on DevOps principles, infrastructure automation, and AWS toolkits.
-- Designed hands-on labs focusing on CI/CD pipelines, serverless computing, and deployment strategies.
-- Developed guides for automated testing, security automation, and configuration management.
+## 📌 Projects  
 
-### Research and Development Intern at Malviya National Institute of Technology (MNIT), Jaipur (2022)
-- Improved model accuracy by 80%.
-- Proficient in AI, deep learning, Google Collab/Kaggle.
-- Leveraged cloud-based solutions for AI, integrating services like Amazon Sage Maker and Google Collab for ML projects.
+- **🚀 Zebyte Cloud & BNK Infotech** – Website content, blogs, and service pages on **Cloud, IoT, and AI**.  
+- **🌐 DotsDen** – Developed **SEO-optimized knowledge base articles, web hosting tutorials, and troubleshooting guides**.  
+- **📊 VueNow Edge Data Centers** – Created content for **Predictive Maintenance Solutions for Railways**.  
+- **💰 Artfin (FinTech Solutions)** – Developed content for a **financial services platform**.  
+- **⚖️ Lex News** – Legal news website content.  
+- **🛍️ Aangana** – E-commerce platform content for **homemade products**.  
 
-## 🎓 Education
+## 📄 Work Samples  
 
-### Bachelor of Technology (CSE) at Jaypee University of Engineering and Technology, Guna (2023)
-- Completed a major in Computer Science and Engineering.
-- Studied subjects such as Computer Systems, Operating Systems, Database, SDLC, Digital Marketing, SEO, AWS, GCP, etc.
+🔹 **SEO-Optimized Technical Blogs** – [Sample Blog](#)  
+🔹 **Cloud Computing Tutorials** – [Sample Tutorial](#)  
+🔹 **Case Studies on DevOps & IT Solutions** – [Sample Case Study](#)  
+🔹 **Website Content for SaaS & IT Companies** – [Live Website](#)  
 
-## 🚀 Projects
+## 🎓 Certifications  
 
-### AWS DevOps for CI/CD Pipeline Automation
-- Overview: Automated release pipelines in AWS CodePipeline.
-- Key Learning: Understanding release pipeline architecture, troubleshooting, adjusting configurations, manual approvals.
-- Technologies: AWS CloudFormation, AWS CodePipeline, AWS CodeBuild, AWS CodeCommit, AWS Cloud9, AWS X-Ray.
+✅ **Azure AI (NLP & Document Intelligence)** – Built NLP solutions and extracted insights from documents.  
+✅ **Cloud Engineering** – Certified in **scalable cloud solutions**.  
+✅ **Google Cloud Infrastructure** – Proficient in **cloud management and automation**.  
 
-### Deep Learning Method to Identify Rotten Fruits
-- Developed a deep learning model to identify fresh and rotten fruits using CNN and Max pooling, Average pooling, and MobileNetV2 architecture.
+## 📬 Let's Connect!  
 
-## 🌟 Certifications
+📩 **Email** – anujvishwakarma33@gmail.com  
+🔗 **LinkedIn** – [Anuj Vishwakarma](#)   
 
-- Build an NLP solution with Azure AI-Language
-- Build an Azure AI Vision solution
-- Create an intelligent document processing solution with Azure AI Document Intelligence
-- Cloud Engineering
-- Perform Foundational Infrastructure Tasks in Google Cloud
+---
+
+This **concise yet detailed** README will make your **GitHub profile stand out**! 🚀 Let me know if you need any refinements! 😊  
