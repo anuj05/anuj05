@@ -13,44 +13,6 @@ I am a **Technical Content Writer & Cloud Enthusiast** with expertise in **Cloud
 | **SEO & Analytics**          | Keyword Research, Google Analytics, Ahrefs, SEMrush, Uber Suggest, Backlink Analysis |
 | **Project Coordination**     | Market Analysis, Data Visualization, Team Coordination, Content Strategy |
 
-## 💼 Work Experience  
-
-### **Technical Content Writer**  
-📍 *Zebyte Cloud* | *2025 - Present*  
-- Created **SEO-optimized blogs, tutorials, and website content** for cloud, DevOps, and IT solutions.  
-- Developed **client proposals, SOWs, and business presentations** for multiple clients.  
-- Managed and updated **social media content** (YouTube, LinkedIn, Quora).  
-- Wrote **technical documentation, case studies, and whitepapers** on cloud solutions and security.  
-
-### **Content Writer**  
-📍 *Frugal Testing* | *2024*  
-- Wrote **website content, technical tutorials, and articles** on **Cloud, Testing, and Frontend Testing Tools**.  
-- Developed **SEO-friendly content** to improve website traffic and engagement.  
-
-### **Technical Content Writer**  
-📍 *Geeks for Geeks* | *2023*  
-- Authored blogs on **DevOps, cloud solutions, and infrastructure automation**.  
-- Created content on **frontend frameworks, programming languages, and web technologies** with SEO optimization.  
-
-## 📌 Projects  
-
-- **🚀 Zebyte Cloud & BNK Infotech** – Website content, blogs, and service pages on **Cloud, IoT, and AI**.  
-- **🌐 DotsDen** – Developed **SEO-optimized knowledge base articles, web hosting tutorials, and troubleshooting guides**.  
-- **📊 VueNow Edge Data Centers** – Created content for **Predictive Maintenance Solutions for Railways**.  
-- **💰 Artfin (FinTech Solutions)** – Developed content for a **financial services platform**.  
-- **⚖️ Lex News** – Legal news website content.  
-- **🛍️ Aangana** – E-commerce platform content for **homemade products**.  
-
-## 📄 Work Samples  
-
-🔹 **SEO-Optimized Knowledge Base Documentation** – [Sample Blog](https://www.dotsden.com/knowledgebase/17/cPanel)  
-🔹 **Live Website Content for SaaS & IT Companies** -
-- **[Zebyte Cloud](https://www.zebytecloud.com/) & [BNK Infotech](https://www.bnkinfotech.com/): Created website content, technical blogs, and service pages on cloud, IoT, AI, etc.**
-- **[DotsDen](https://www.dotsden.com/) & [(New)](https://dev7.zebytecloud.in/): Developed SEO-optimized content, knowledge base articles, and blogs on hosting and web solutions.**
-- **[Aangana](https://aangana.com/): E-commerce website content for homemade products**
-- **[VueNow Edge Data Canters](https://vuenowonline.com/): Website content, Predictive Maintenance Solutions for Railways**
-- **[Artfin(FinTech Solutions)](https://artfin.zebytecloud.in/): Content for financial services website**
-- **[Lex News](https://dev.zebytecloud.in/): Legal news platform content**
 
 ## 🎓 Certifications  
 
