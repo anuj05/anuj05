@@ -23,7 +23,6 @@ I am a **Technical Content Writer & Cloud Enthusiast** with expertise in **Cloud
 ## 📬 Let's Connect!  
 
 📩 **Email** – anujvishwakarma33@gmail.com  
-🔗 **LinkedIn** – [Anuj Vishwakarma](#)   
 
 ---
 
